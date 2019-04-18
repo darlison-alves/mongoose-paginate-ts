@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/darlison-alves/mongoose-paginate-ts#readme",
   "devDependencies": {
+    "@types/mongoose": "5.3.26",
     "mongoose": "5.5.2"
   }
 }
