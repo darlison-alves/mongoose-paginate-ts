@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/darlison-alves/mongoose-paginate-ts/issues"
   },
-  "homepage": "https://github.com/darlison-alves/mongoose-paginate-ts#readme"
+  "homepage": "https://github.com/darlison-alves/mongoose-paginate-ts#readme",
+  "devDependencies": {
+    "mongoose": "5.5.2"
+  }
 }
