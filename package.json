@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-paginate-ts",
+  "version": "1.0.0",
+  "description": "plugin de logica de paginacao para mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlison-alves/mongoose-paginate-ts.git"
+  },
+  "author": "Darlinson Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darlison-alves/mongoose-paginate-ts/issues"
+  },
+  "homepage": "https://github.com/darlison-alves/mongoose-paginate-ts#readme"
+}
